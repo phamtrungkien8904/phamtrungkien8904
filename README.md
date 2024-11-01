@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Kien  
 - 👀 I’m interested in Physics, Engineering and AI
-- 🌱 I’m currently learning Physics
+- 🌱 I’m currently undergraduate student major in Physics
 - 💞️ I’m looking to collaborate on AI
-- 📫 How to reach me 
+- 📫 Reach me via **Kien.Pham@campus.lmu.de**
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm Asian
 
