@@ -4,9 +4,9 @@
   </ul>
 </div>
 
-- 👋 Hi, I’m Kien, you can call me Kevin for short
+- 👋 Hi, I’m **Kien**, you can call me Kevin for short
 - 👀 I’m interested in **Physics**, **Engineering**, **AI** and **scientific programmable matter**
-- 🌱 I’m currently an undergraduate student major in Physics
+- 🌱 I’m currently an undergraduate student major in **Physics**
 - 📫 Feel free to reach me via **Kien.Pham@campus.lmu.de**
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a pure Asian and I love maths
