@@ -1,11 +1,11 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello there👋 </h1></summary>
+    <summary><h1 style="display: inline-block">Hello there! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1></summary>
   </ul>
 </div>
 
 - 👋 Hi, I’m Kien, you can call me Kevin for short
-- 👀 I’m interested in Physics, Engineering, AI and scientific programmable matter
+- 👀 I’m interested in **Physics**, **Engineering**, **AI** and **scientific programmable matter**
 - 🌱 I’m currently an undergraduate student major in Physics
 - 📫 Feel free to reach me via **Kien.Pham@campus.lmu.de**
 - 😄 Pronouns: he/him
