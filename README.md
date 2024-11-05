@@ -23,16 +23,13 @@ You can click the Preview link to take a look at your changes.
 <table align="center">
 <tr border="none">
 <td width="50%" align="center">
-  Github Contribution Streak 🔥 
   <img  align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=phamtrungkien8904&theme=black-ice&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
   <br></br>
-  Github Stats &nbsp;📊
   <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-stats.vercel.app/api?username=phamtrungkien8904&show_icons=true&theme=github_dark" /> 
   
 </td>
 
 <td width="50%" align="center">
-Most Used Languages 📚
   <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=phamtrungkien8904&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
