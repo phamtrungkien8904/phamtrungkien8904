@@ -10,8 +10,6 @@
 - 📫 Feel free to reach me via **Kien.Pham@campus.lmu.de**
 - ⚡ Visit my page here **https://keinkem.me**
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I'm a pure Asian and I love maths
-
 <!---
 phamtrungkien8904/phamtrungkien8904 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
