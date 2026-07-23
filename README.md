@@ -5,13 +5,6 @@
 </div>
 
 <table>
-  <tr>
-    <td valign="top">
-
-      <img src="./ascii-avatar.svg" alt="ASCII avatar" width="130" />
-
-    </td>
-    <td valign="top">
 
 - 👋 Hi, I’m **Kien**, you can call me Kevin for short
 - 👀 I’m interested in **Physics**, **Engineering**, **AI** and **scientific programmable matter**
